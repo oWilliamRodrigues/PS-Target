@@ -1,0 +1,30 @@
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\PS Target.csproj.AssemblyReference.cache
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\PS Target.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\PS Target.AssemblyInfoInputs.cache
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\PS Target.AssemblyInfo.cs
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\PS Target.csproj.CoreCompileInputs.cache
+D:\Clipes Jogadas\Coding\PS Target\bin\Debug\net6.0\PS Target.exe
+D:\Clipes Jogadas\Coding\PS Target\bin\Debug\net6.0\PS Target.deps.json
+D:\Clipes Jogadas\Coding\PS Target\bin\Debug\net6.0\PS Target.runtimeconfig.json
+D:\Clipes Jogadas\Coding\PS Target\bin\Debug\net6.0\PS Target.dll
+D:\Clipes Jogadas\Coding\PS Target\bin\Debug\net6.0\PS Target.pdb
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\PS Target.dll
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\refint\PS Target.dll
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\PS Target.pdb
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\PS Target.genruntimeconfig.cache
+D:\Clipes Jogadas\Coding\PS Target\obj\Debug\net6.0\ref\PS Target.dll
+D:\Coding\PS Target\bin\Debug\net6.0\PS Target.exe
+D:\Coding\PS Target\bin\Debug\net6.0\PS Target.deps.json
+D:\Coding\PS Target\bin\Debug\net6.0\PS Target.runtimeconfig.json
+D:\Coding\PS Target\bin\Debug\net6.0\PS Target.dll
+D:\Coding\PS Target\bin\Debug\net6.0\PS Target.pdb
+D:\Coding\PS Target\obj\Debug\net6.0\PS Target.csproj.AssemblyReference.cache
+D:\Coding\PS Target\obj\Debug\net6.0\PS Target.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PS Target\obj\Debug\net6.0\PS Target.AssemblyInfoInputs.cache
+D:\Coding\PS Target\obj\Debug\net6.0\PS Target.AssemblyInfo.cs
+D:\Coding\PS Target\obj\Debug\net6.0\PS Target.csproj.CoreCompileInputs.cache
+D:\Coding\PS Target\obj\Debug\net6.0\PS Target.dll
+D:\Coding\PS Target\obj\Debug\net6.0\refint\PS Target.dll
+D:\Coding\PS Target\obj\Debug\net6.0\PS Target.pdb
+D:\Coding\PS Target\obj\Debug\net6.0\PS Target.genruntimeconfig.cache
+D:\Coding\PS Target\obj\Debug\net6.0\ref\PS Target.dll
